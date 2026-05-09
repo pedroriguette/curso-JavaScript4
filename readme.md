@@ -1,4 +1,4 @@
-**Exercicio feitos no modulo 4 de JavaScript do curso JavaScript FullStack da OniBit Code**
+**Exercicios feitos no modulo 4 de JavaScript do curso JavaScript FullStack da OniBit Code**
 
 - Sobre o curso:
 
